@@ -1,10 +1,4 @@
 {
- "name": "Zensei Sushi - Santo André - Tour Virtual 360°",
- "description": "Av. Lino Jardim, 568 - Vila Bastos, Santo André - SP",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +35,11 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "name": "Zensei Sushi - Santo André - Tour Virtual 360°",
+ "description": "Av. Lino Jardim, 568 - Vila Bastos, Santo André - SP",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }

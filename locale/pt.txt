@@ -5,16 +5,19 @@
 ### URL
 LinkBehaviour_BA298B5F_A917_FF14_41E3_2098DE596536.source = http://www.loremipsum.com
 LinkBehaviour_906572C4_9E3B_C1C7_41DF_61F3EA97A6DC.source = http://www.loremipsum.com
-LinkBehaviour_88DBBA66_9E4C_40C3_41D1_966B822A8934.source = https://linklist.bio/zenseisushi
 LinkBehaviour_BA219B4C_A917_FF74_41D7_34EE57E03496.source = https://linklist.bio/zenseisushi
+LinkBehaviour_88DBBA66_9E4C_40C3_41D1_966B822A8934.source = https://linklist.bio/zenseisushi
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_290F231D_0D3E_AA66_41AA_0012326E0A96.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_290E2CF3_0D3B_9FA2_4198_3C5FAEAE40F4.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_2E1BF11B_0D39_6662_419A_06BD059005ED.source = https://www.instagram.com/zenseisushilinojardim/
+LinkBehaviour_294567F4_0D3A_A9A6_4157_CF69AB949900.source = https://www.instagram.com/zenseisushilinojardim/
 
 ## Media
 
 ### Audio
 audiores_808FBA44_9E7F_C0C7_41CA_A71C84EBCAEA.mp3Url = media/audio_86BD596F_9E44_C0C1_41BC_06BF6B196E73_pt.mp3
-audiores_808FBA44_9E7F_C0C7_41CA_A71C84EBCAEA.oggUrl = media/audio_86BD596F_9E44_C0C1_41BC_06BF6B196E73_pt.ogg
 
 ### Title
 panorama_92B9B92C_9E3D_C047_41D3_23DD40D85D52.label = 2 Andar 1
@@ -27,6 +30,11 @@ panorama_956B2E39_9E3D_C041_41BB_C274BFB07CD3.label = Entrada Meio
 panorama_956AE184_9E3C_4047_41D4_9D4FCC9A7587.label = Estrada Esquerda
 panorama_956AFAF7_9E3C_41C1_41E1_927768BC7FF1.label = Fachada
 panorama_829DC6A3_9E4C_4041_41D7_37D590367C56.label = Fundo
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = @meunegocioweb360
 
 ## Skin
 
@@ -49,6 +57,8 @@ Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.url = skin/Image_16B75461_1B87
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_pt.jpg
+Image_2CB7AD80_0D39_7E5F_4198_C6EC37F44410.url = skin/Image_2CB7AD80_0D39_7E5F_4198_C6EC37F44410_pt.png
+Image_2E900317_0D39_AA61_4195_0F2C175CB1F6.url = skin/Image_2E900317_0D39_AA61_4195_0F2C175CB1F6_pt.png
 Image_8B3F3045_9E5C_40C1_41C7_985493A577B6_mobile.url = skin/Image_8B3F3045_9E5C_40C1_41C7_985493A577B6_mobile_pt.png
 Image_8B3F3045_9E5C_40C1_41C7_985493A577B6.url = skin/Image_8B3F3045_9E5C_40C1_41C7_985493A577B6_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png
